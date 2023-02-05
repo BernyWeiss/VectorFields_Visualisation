@@ -1,0 +1,11 @@
+somtoolbox.bat SOMViewer -u .\\maps\\10clusters_small\\10clusters_small.unit.gz -w .\\maps\\10clusters_small\\10clusters_small.wgt.gz --dw .\\maps\\10clusters_small\\10clusters_small.dwm.gz
+
+somtoolbox.bat SOMViewer -u .\\maps\\10clusters_middle\\10clusters_middle.unit.gz -w .\\maps\\10clusters_middle\\10clusters_middle.wgt.gz --dw .\\maps\\10clusters_middle\\10clusters_middle.dwm.gz
+
+
+somtoolbox.bat SOMViewer -u .\\maps\\10clusters_big\\10clusters_big.unit.gz -w .\\maps\\10clusters_big\\10clusters_big.wgt.gz --dw .\\maps\\10clusters_big\\10clusters_big.dwm.gz
+
+
+somtoolbox.bat SOMViewer -u .\\maps\\chainlink_small\\chainlink_small.unit.gz -w .\\maps\\chainlink_small\\chainlink_small.wgt.gz --dw .\\maps\\chainlink_small\\chainlink_small.dwm.gz
+
+somtoolbox.bat SOMViewer -u .\\maps\\chainlink_big\\chainlink_big.unit.gz -w .\\maps\\chainlink_big\\chainlink_big.wgt.gz --dw .\\maps\\chainlink_big\\chainlink_big.dwm.gz

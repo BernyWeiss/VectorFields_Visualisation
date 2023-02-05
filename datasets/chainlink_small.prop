@@ -1,0 +1,14 @@
+outputDirectory=..\\..\\..\\maps\\chainlink_small
+namePrefix=chainlink_small
+vectorFileName=chainlink.vec
+templateFileName=chainlink.tv
+isNormalized=false
+randomSeed=7
+workingDirectory = .\\doc\\datasets\\chainlink
+
+useDatabase=false
+
+xSize=10
+ySize=10
+learnRate=0.7
+numIterations=10000
